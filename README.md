@@ -1,2 +1,3 @@
 # ArtGAN
-This name succinctly combines "art" and "GAN" to convey the focus of the project on generating art using Generative Adversarial Networks.
+
+This Repo Contains a GAN Network which Generates Art works.
